@@ -5,6 +5,7 @@
 RPG Maker MZ / NW.js 游戏 **《魔法少女ピュアフル・リリィ》** 的实时日语→中文翻译插件。
 
 基于本地 [Ollama](https://ollama.com) 运行的大语言模型（默认 `qwen3.5:4b`），在游戏进行中拦截对话文本、实时翻译并以**专业深色玻璃拟态面板**悬浮显示在屏幕底部。完全非侵入式，不影响游戏体验。
+不确定是否可以跟大多数架构类似的游戏兼容，不过改一改应该能在所有类似的游戏里使用，如果你有Cursor、Cline、Trae的话可以试试叫它们迁移这个插件到其他游戏。
 <img width="1281" height="739" alt="image" src="https://github.com/user-attachments/assets/0cb3ee76-c67a-4219-89e5-dc0a9fa4b528" />
 
 ---
